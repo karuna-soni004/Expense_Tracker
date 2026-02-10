@@ -3,7 +3,7 @@ Project Description : The Expense Tracker is a simple console-based Python appli
 Using this project, a user can:
 Add new expenses
 View all expenses
-View total expenses
+View total expenses.
 Features :
 Add expense with description , date , and amount
 View all added expenses in a structures format
